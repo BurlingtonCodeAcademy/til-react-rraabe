@@ -23,7 +23,7 @@
   },
   "homepage": "http://localhost:5000",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mime": "^2.3.1",
     "mime-types": "^2.1.18",
     "moment": "^2.22.2",
